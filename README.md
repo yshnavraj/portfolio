@@ -1,5 +1,3 @@
-## Personal Portfolio
+## My Personal Portfolio
 
-npm run dev
-
-npm run build
+link: [https://vyshnavraj.netlify.com]https://vyshnavraj.netlify.com
