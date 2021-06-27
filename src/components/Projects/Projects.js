@@ -27,7 +27,7 @@ const Projects = () => (
             </div>
             <UtilityList>
               {visit !== ''? 
-                <ExternalLinks href={visit}>Code</ExternalLinks> : ""
+                <ExternalLinks href={visit}>Visit</ExternalLinks> : ""
               }
               {source !== ''?
                 <ExternalLinks href={source}>Source</ExternalLinks> : ""

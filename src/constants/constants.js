@@ -28,12 +28,21 @@ export const projects = [
   },
   {
     title: 'Criminal Identification System',
-    description: "This is an Application that is developed using Python and its frameworks like Tkintr, Flask. This application is used to identify the criminals using face recognition algorithm. It has video surveillance to identify the criminals in real-time. This application can used anywhere as the data is in Cloud Storage.",
+    description: "This is an application that is developed using Python and its frameworks like Tkintr, Flask. This application is used to identify the criminals using face recognition algorithm. It has video surveillance to identify the criminals in real-time. This application can used anywhere as the data is in Cloud Storage.",
     image: '/images/4.jpg',
     tags: ['Python', 'Tkintr', 'Google Cloud Platform', 'Flask', 'SQL'],
     source: 'https://github.com/yshnavraj/python-project-1',
     visit: '',
     id: 3,
+  },
+  {
+    title: 'Video Call App',
+    description: "It is a video call web application where the user can generate an id and send that id to another user, the id generated is used to call each other.",
+    image: '/images/5.jpg',
+    tags: ['React', 'NextJS', 'WebRTC'],
+    source: '',
+    visit: 'https://video-callandchat-app.netlify.com/',
+    id: 4,
   },
 ];
 
