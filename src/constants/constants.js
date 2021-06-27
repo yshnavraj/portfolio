@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://video-callandchat-app.netlify.com/',
     id: 4,
   },
+  {
+    title: 'Weather App',
+    description: "Weather application to know the realtime weather of your current location.",
+    image: '/images/6.jpg',
+    tags: ['HTML', 'CSS', 'JS', 'Open Weather Api'],
+    source: 'https://github.com/yshnavraj/weatherapp',
+    visit: 'https://checkyorweather.netlify.com/',
+    id: 5,
+  }
 ];
 
 export const TimeLineData = [
