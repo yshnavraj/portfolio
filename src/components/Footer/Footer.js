@@ -21,10 +21,10 @@ const Footer = () => {
         <SectionText style={{ color: 'white' }}>
           <b>Contact</b>
         </SectionText>
-        <LinkColumn>
+        {/* <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:967-631-4108">+91 967-631-4108</LinkItem>
-        </LinkColumn>
+          <LinkItem href="tel:682-408-0652">+1 (682) 408-0652</LinkItem>
+        </LinkColumn> */}
         <LinkColumn>
           <LinkTitle>EMAIL</LinkTitle>
           <LinkItem href="mailto:contact.vyshnavraj@gmail.com">
