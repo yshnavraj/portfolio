@@ -15,7 +15,7 @@ const Hero = (props) => (
         Welcome to My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I am an Undergrad from Keshav Memorial Institute of Technology in department of Computer Science. I like programming and developed Web Applications and have an experience with DataStructures &amp; Algorithms. I also worked on like ReactJS, NodeJS, REST API. 
+        I am a graduate student in University of Texas at Arlington in department of Computer Science. I like programming and developed Web Applications and have an experience with DataStructures &amp; Algorithms. I also worked on like ReactJS, NodeJS, REST API. 
       </SectionText>
       {/* <Button onClick={() => window.location = '#contact'}>Contact</Button> */}
       {/* <Img src={profile} /> */}
